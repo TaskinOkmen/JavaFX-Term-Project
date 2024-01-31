@@ -4,7 +4,7 @@ A 2D passenger transportation game project using JavaFX
 
 ## Screenshots
 
-![titlepage](titlepage.png)
+![titlescreen](titlescreen.png)
 
 ![ingameimage1](ingameimage1.png)
 
